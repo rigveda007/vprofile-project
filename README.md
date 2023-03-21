@@ -23,5 +23,6 @@ Then look for the file :
 - > mysql -u <user_name> -p accounts < accountsdb.sql
 
 Checking CI Pipeline
+It works!!
 
 
